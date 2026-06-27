@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.127 (w)1999-2026 BSI
+[*] Sat Jun 27 00:20:12 2026
+[*]
+[dumpfile] "/home/pficagna/Documents/10-repos/11-gitRepo/fpga-proj/tdd-example/sim/work/tb_runner.ghw"
+[dumpfile_mtime] "Sat Jun 27 00:00:26 2026"
+[dumpfile_size] 1643
+[savefile] "/home/pficagna/Documents/10-repos/11-gitRepo/fpga-proj/tdd-example/tb/tb_runner.gtkw"
+[timestart] 0
+[size] 949 469
+[pos] -1 -1
+*-26.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[sst_width] 43
+[signals_width] 86
+[sst_expanded] 0
+[sst_vpaned_height] 111
+@28
+top.tb_runner.done_s
+top.tb_runner.busy_s
+top.tb_runner.start_s
+top.tb_runner.rst_s
+@29
+top.tb_runner.clk_s
+[pattern_trace] 1
+[pattern_trace] 0
