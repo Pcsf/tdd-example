@@ -1,0 +1,7 @@
+# all simulation build output is reproducible — never commit it
+sim/uvvm_lib/
+sim/work/
+*.ghw
+*.fst
+*.cf
+*.txt
